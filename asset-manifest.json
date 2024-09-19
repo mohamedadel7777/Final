@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Final/static/css/main.f199dcdf.css",
+    "main.js": "/Final/static/js/main.8ebe4ee1.js",
+    "static/media/laptops.png": "/Final/static/media/laptops.a5a6ab642345b5d38784.png",
+    "static/media/slider4.png": "/Final/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/prod4.png": "/Final/static/media/prod4.60c973db7361e54bb831.png",
+    "static/media/slider1.png": "/Final/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/prod3.png": "/Final/static/media/prod3.c073f706ba444448c519.png",
+    "static/media/clothe.png": "/Final/static/media/clothe.63497de16012693f71f1.png",
+    "static/media/cat2.png": "/Final/static/media/cat2.cb9155160d37d36502be.png",
+    "static/media/laptop.png": "/Final/static/media/laptop.72427ac57eccb337dd2b.png",
+    "static/media/pic.png": "/Final/static/media/pic.c1f340e9b514ac94aa83.png",
+    "static/media/sale.png": "/Final/static/media/sale.fd3bd0e8262078e4961a.png",
+    "static/media/logo-color.png": "/Final/static/media/logo-color.719495c6c6f05c7a9d62.png",
+    "static/media/brand3.png": "/Final/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "static/media/SmartWatch.webp": "/Final/static/media/SmartWatch.5d3f69036e13e5aed62b.webp",
+    "static/media/Mac.webp": "/Final/static/media/Mac.51162dcaf016dfb6dcf1.webp",
+    "static/media/Earpods.webp": "/Final/static/media/Earpods.d28db932ace72cc91820.webp",
+    "index.html": "/Final/index.html",
+    "main.f199dcdf.css.map": "/Final/static/css/main.f199dcdf.css.map",
+    "main.8ebe4ee1.js.map": "/Final/static/js/main.8ebe4ee1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f199dcdf.css",
+    "static/js/main.8ebe4ee1.js"
+  ]
+}
