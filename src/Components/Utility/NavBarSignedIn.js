@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar, Container, FormControl, Nav, Dropdown } from "react-bootstrap";
 import { useSelector, useDispatch } from "react-redux";
-import logo from "../../images/logo2.png";
+import logo from "../../images/logo-color.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import { Badge } from "react-bootstrap";

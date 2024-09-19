@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar, Container, FormControl, Nav } from "react-bootstrap";
-import logo from "../../images/logo2.png";
+import logo from "../../images/logo-color.png";
 import login from "../../images/login.png";
 
 const NavBarLogin = () => {

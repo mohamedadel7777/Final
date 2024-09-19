@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar, Container, FormControl, Nav, Dropdown } from "react-bootstrap";
-import logo from "../../images/logo2.png";
+import logo from "../../images/logo-color.png";
 import { logout } from "../../redux/AuthSlice";
 import { useDispatch } from "react-redux";
 
